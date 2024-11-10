@@ -1,3 +1,3 @@
-## Data Science Project Template
+# Sensor-based Exercise Classification Model
 
-You can use this template to structure your Python data science projects. It is based on [Cookie Cutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)."# Sensor-based_Exercise_Classification" 
+A machine learning model trained on sensor data, to classify barbell exercises.
